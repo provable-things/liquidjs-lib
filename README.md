@@ -1,6 +1,6 @@
 # LiquidJS
 
-[![Build Status](https://travis-ci.org/vulpemventures/liquidjs-lib.svg?branch=master)](https://travis-ci.org/vulpemventures/liquidjs-lib)
+[![Build Status](https://travis-ci.org/provable-things/liquidjs-lib.svg?branch=master)](https://travis-ci.org/provable-things/liquidjs-lib)
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
